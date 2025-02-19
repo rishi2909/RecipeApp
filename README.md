@@ -1,4 +1,4 @@
-<title>🍽️ Recipe Finder App</title>
+<h1>🍽️ Recipe Finder App</h1>
 A Flask-based web application that allows users to search for recipes and view detailed cooking instructions. It uses the Spoonacular API to fetch recipes based on user queries.
 
 ✨ Features
